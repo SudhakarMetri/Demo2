@@ -7,5 +7,6 @@ public class DemoPush {
 public void demo()
 {
 	System.out.println("user1 first commit");
+	System.out.println("user2 2nd commit");
 	}
 }

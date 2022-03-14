@@ -25,7 +25,7 @@ public void demo()
 
 	}
 @Test
-public void demo1()
+public void demo1test()
 {
 	System.out.println("soul first commit");
 	System.out.println("user2 2nd commit");

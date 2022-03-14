@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="PracticeDemo.Demo2test"/>
+      <class name="/Demo/src/test/java/PracticeDemo/Demo2test.java"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

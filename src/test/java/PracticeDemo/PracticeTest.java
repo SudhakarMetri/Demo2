@@ -11,6 +11,7 @@ public static void main(String[] args)
 		{dig=dig+s.charAt(i);
 		}
 	}
+	
 	int no=Integer.parseInt(dig);
 	while(no!=0)
 		
